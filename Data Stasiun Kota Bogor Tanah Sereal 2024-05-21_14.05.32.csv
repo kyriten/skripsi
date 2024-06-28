@@ -1,12 +1,12 @@
 ﻿,,,,,,,,,,,,,,,
-,,,LAPORAN KONSENTRASI DAN METEOROLOGI,,,,,,,,,,,,
-,,,Data Monitoring di Stasiun Pemantau,,,,,,,,,,,,
-,,,Tanggal,: 01 Agustus 2022 jam 00:00:00,,,,,,,,,,,
-,,,Kota,: Bogor,,,,,,,,,,,
-,,,Stasiun,: Kota Bogor Tanah Sereal,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,Waktu,PM10,PM2.5,SO2,CO,O3,NO2,HC,Kec.Angin,Arah Angin,Kelembaban,Suhu,Tek.Udara,Sol.Rad,Curah Hujan
-,,µg/m³,µg/m³,µg/m³,µg/m³,µg/m³,µg/m³,µg/m³,m/s,°,%,°C,mBar,watt/m²,mm
+,,,,,,,,,,,,,,,
 ,2022-08-01 00:00:00,69,73,45,,83,80,,0,247,86,25.3,984.93,0,0
 ,2022-08-01 00:30:00,79,72,39,,11,306,,0,253,87,24.8,984.53,0,0
 ,2022-08-01 01:00:00,83,75,45,14,54,20,18,0,225,89,24.4,984.32,0,0
