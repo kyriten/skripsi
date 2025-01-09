@@ -1,0 +1,61 @@
+/* Custom CSS to mimic IQAir layout */
+.air-quality-card {
+  border: 2px solid #f5f5f5;
+  background-color: #f5f5f5;
+  padding: 20px;
+  font-size: 18px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.forecast-card {
+  border: 2px solid #dcdcdc;
+  background-color: #f5f5f5;
+  padding: 20px;
+  font-size: 18px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.forecast-table {
+  font-size: 16px;
+}
+
+.forecast-table th,
+.forecast-table td {
+  text-align: center;
+  padding: 12px;
+}
+
+.forecast-table thead {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}
+
+/* Styling for date picker and button */
+input[type="date"] {
+  font-size: 16px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.3;
+  }
+}
+
+.animate-fade {
+  animation: fade 2s infinite;
+}
+
+.modal-dialog {
+  max-height: 80vh;
+  overflow-y: auto;
+}
